@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=700&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Frontend+Developer;3%2B+Years+Design+Experience;I+Create+Modern+Responsive+Websites;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=700&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Frontend+Developer;2%2B+Years+Design+Experience;I+Create+Modern+Responsive+Websites;" />
 </h1>
 
 
